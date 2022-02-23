@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of the lamentable and dreadful fire that began in Cinnamon-Street in Wapping, on the nineteenth of this instant November, 1682</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40566</idno>
+            <idno type="STC">Wing F2305</idno>
+            <idno type="STC">ESTC R31720</idno>
+            <idno type="EEBO-CITATION">12247631</idno>
+            <idno type="OCLC">ocm 12247631</idno>
+            <idno type="VID">57003</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57003)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1504:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of the lamentable and dreadful fire that began in Cinnamon-Street in Wapping, on the nineteenth of this instant November, 1682</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Langley Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century.</term>
+               <term>Wapping (London, England) --  Fire, 1682.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:57003:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <argument>
+               <p>A Full and True ACCOUNT OF THE Lamentable and Dreadful Fire That Began in Cinnamon-Street IN WAPPING On <date>the Nineteenth of this Inſtant <hi>November,</hi> 1682.</date> About Nine of the Clock in the Evening, by which were Conſumed a Thouſand Houſes, beſides vaſt quan<g ref="char:EOLhyphen"/>tities of Goods, Forty People Kill'd in at<g ref="char:EOLhyphen"/>tempting to extinguiſh it. It continued Burning for the ſpace of Twenty hours, Lamentable and Dreadful to behold, with the Relation according to the beſt infor<g ref="char:EOLhyphen"/>mation, how and by what means it began, together with all Remarkable Paſſuges that happened during that Fearfull Con<g ref="char:EOLhyphen"/>flagration.</p>
+            </argument>
+            <p>On <hi>Sunday</hi> the <hi>19</hi> of this Inſtant <hi>Novemb.</hi> 1682 a dreadful Fire broke out in <hi>Cinnamon-ſtreet</hi> in <hi>VVapping,</hi> near to Sir <hi>Ri<g ref="char:EOLhyphen"/>chard VVarrens,</hi> the manner according to the beſt Information is thus,</p>
+            <p>A Maſter of a Ship Living in the Street aforeſaid, and having ſome Friends with him that ſame day, Fires were made in the Chambers, perhaps bigger then or<g ref="char:EOLhyphen"/>dinary,
+<pb n="2" facs="tcp:57003:2"/>
+               <!-- PDF PAGE 26 -->
+but nothing was perceived till about nine in the Even<g ref="char:EOLhyphen"/>ing, when a Child about eight years of Age, perceiving an extraordinary ſmoke, dryed out Fire, which alarumed ſeve<g ref="char:EOLhyphen"/>ral of the Neighbours, ſo that they came out of their Houſes, but perceiving no ſuch thing at firſt, blamed the Child, but it perſiſting therein, directed them to the Houſe, when o<g ref="char:EOLhyphen"/>pening the Door they perceived the great Beam into which the Gyſes are Tennanted on Fire, and then called upon the People, who were in ſuch a conſternation [the Floor up one pair of Stairs being on Fire] that they came running down, ſome of them without their Cloaths, and before they could return to fetch them or take out any thing conſiderable of their Goods, the whole Structure was in a Flame, firſt kind<g ref="char:EOLhyphen"/>led as ſome think by Timber layed from the Floor into the Chimney, and yet 'tis greatly doubted whether the Maid of the Houſe be not Burnt.</p>
+            <p>The Flame having got the Maſtery and driven by th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeverity of the Wind, which was exceſſive high, and but little Water to be got, it raged exceedingly, deſtroying all be<g ref="char:EOLhyphen"/>fore it on either ſide the way, and that ſo ſuddainly, running through two or three Houſes at once, that the Neighbouring Inhabitants in a hurry and amazement, were not capable of ſecuring half their Goods, and ſome none at all, thus the Flames Triumphing as it were over thoſe Antient Buildings, drove on for the ſpace of an hour and a half e're any Engines could come in, and the Streets being ſo narrow, and the Fire following ſo faſt, many of them proved unſerviceable, yet great was the Induſtry of the Ingeneirs, inſomuch that they Laboured inceſſantly, though to no great advantage, Water being at that time exceeding ſcarce.</p>
+            <p>After about 100 Houſes were conſumed Powder being brought by Water, orders were given for blowing up, which accordingly was performed, and ſix Houſes immediately Le<g ref="char:EOLhyphen"/>velled, but there being no place to put the Timber, and the Fire coming faſt on the fury of the Wind, drove it with ſuch Vehemency, that burning through the Ruins, it catched the Houſes on the other ſide, and then raged as fearful as at firſt, even to the River ſide, from whence the Ships weighed Anchor, and ſtood to the other Shore, but in ſuch confuſion, that by cutting their Halſers, and runing foul of each other much damage was ſuſtained, ſome of them that lay neareſt the Shore had their Shrouds Fired, though by the Induſtry of
+<pb n="3" facs="tcp:57003:2"/>
+               <!-- PDF PAGE 26 -->
+the Sailers, they were ſoon extinguiſhed, and one amongſt the reſt was near Periſhing, being Fired in her fore Caſtle, by a Flake or Sheet of Flame, She lying near upon Ground, but being Towed off it was extinguiſhed, and ſhe preſerved, yet 'tis ſaid amongſt the reſt that haſtily came on board, two tum<g ref="char:EOLhyphen"/>bled into the River and there one of them Periſhed.</p>
+            <p>Whilſt the Wind was <hi>South</hi> by <hi>Eaſt,</hi> the Fire not only went with it, but likewiſe as it were crept under it, laying waſte Lanes and Allys, and a Grocers Houſe chancing to have Gun-Powder in it, either left through forgetfulneſs or ſuddain ſur<g ref="char:EOLhyphen"/>prize, blew up, and falling ſuddainly, overwhelmed ſeveral in the Ruins, then ſeveral other Houſes being blown up pur<g ref="char:EOLhyphen"/>poſely, the Seamen and others drew the Timber to the Water<g ref="char:EOLhyphen"/>ſide, and threw it into the <hi>Thames,</hi> ſo that the River Floated with Timber, even till the Water in many places was ſcarce diſcernable.</p>
+            <p>Thus it continued to the greateſt Terrror of the Inhabitants, who every where Fled before it, filling the Fields with their Goods, which through haſt, and the little Regard that was had in taking them down or in pieces were Vaſtly ſpoiled, about one in the Morning, ſeveral of the Guards came and brought Pow<g ref="char:EOLhyphen"/>der and other neceſſarys, ſo that by the great Induſtry of thoſe that Laboured to extinguiſh it, it was well hoped it would have been brought under, but the Wind ſhifting its quarter, Blew harder then before, and ſeveral People having been Kil<g ref="char:EOLhyphen"/>led by the unexpected fall of Timber, Chimneys, and peices of Walls, thoſe that had it in hand grew fearful, ſo that for ſome time, the narrowneſs of the Streets contributing thereto, it went on uncontrouled, eſpecially towards <hi>Shadwell,</hi> and Burnt down all or moſt of the New-Building that were Burnt in the great Fire about five or ſix years ſince, as likewiſe Cranes, Ware-houſes, and Store-houſes; great were the quantitys of Tobacco and Brandy that were deſtroyed, Wood-yards in abundance likewiſe conſumed, no Carts being to be got, and by reaſon the Tyde fell Low, all meanes by ſending the Boards and Timber away by Water were cut off, ſo that by Eight in the Morning ſix or ſeven hundred Houſes were Judged to be Burnt, beſides about twenty Blown up, and many more pul<g ref="char:EOLhyphen"/>led Down, nor were the Water men retained by the Inſurers leſs active then the reſt, even to the indangering their Lives, Eſpecially about preſerving thoſe Houſes that were inſured of which there were a conſiderable Number.</p>
+            <p>
+               <pb n="4" facs="tcp:57003:3"/>
+               <!-- PDF PAGE 27 -->
+When it came to the place called <hi>Wapping-Wall;</hi> many were of the opinion it would have ſtayed, but contrary to ex<g ref="char:EOLhyphen"/>pectation it Burnt fiercer than before, running along with ſuch ſpeed that it entring ſometimes four Houſes together, took both ſides of the way, and cleared with it all the Allys, when ſome endeavouring to pull down a VVall that it might damp the Fire, it fell on three or four and Buried them in the Ruins, and another Houſe being on Fire, ſome People ventured in as tis ſuppoſed to pilfer, but the Houſe ſuddenly was Beaten down by the fall of a ſtock of Chimnies, but how many pe<g ref="char:EOLhyphen"/>riſhed therein remains uncertain though ſome there were.</p>
+            <p>Thus huving conſumed the greateſt part of <hi>Wapping,</hi> with the adjoyning Streets, Allys, Yards, Courts, VVharfs, and the like, it entered <hi>Shadwell,</hi> not at all abating its fury, and there taking both ſides the way made lamentable deſtruction, Burn<g ref="char:EOLhyphen"/>ing all about the Dock, and deſtroyed a Lighter that lay on Ground, conſuming many ſtately Buildings; there again Blow<g ref="char:EOLhyphen"/>ing up was uſed as opportunity afforded and effectually, that it was ſtopped from going to the Left, yet kept its courſe as fierce as ever, Burning at three of the Clock moſt extream<g ref="char:EOLhyphen"/>ly, when again two Sea-men ſtanding too long upon a Houſe that was on Fire underneath it fell, and one of them with it, but the other caught hold of a Beam that came from the next Houſe: Lamentable was it to behold, the poor People Crying up and down for the loſs of their Goods and Habitations; many Hundreds that Yeſterday were well ſeated, and Goods about them, this day turned out to ſeek a place to repoſe in, on the other hand VVomen Lamenting the loſs of their Husbands Killed in endeavouring to extinguiſh the mercileſs Flames, and ſo continued Burning the ſpace of Twenty hours, in which time tis Judged, as near as can be computed, Houſes and Goods to an ineſtimable Value was Burnt, beſides about Forty Perſons Killed.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Langley Curtis,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
